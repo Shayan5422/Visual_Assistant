@@ -39,7 +39,7 @@ Welcome to the **Visual Assistant** project! This open-source application levera
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/visual-assistant.git
+git clone https://github.com/Shayan5422/visual-assistant.git
 cd visual-assistant
 ```
 
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 **Note**: If `moondream` is not available on PyPI, ensure to install it from the provided GitHub repository:
 
 ```bash
-pip install git+https://github.com/your-username/moondream.git
+pip install git+https://github.com/your-vikhyat/moondream.git
 ```
 
 ### Download Pre-trained Models
@@ -124,7 +124,7 @@ Contributions are welcome! Whether you're a developer, designer, or accessibilit
 
 ### Reporting Issues
 
-If you encounter any bugs or have feature requests, please open an issue [here](https://github.com/your-username/visual-assistant/issues).
+If you encounter any bugs or have feature requests, please open an issue [here](https://github.com/Shayan5422/visual-assistant/issues).
 
 ## 📄 **License**
 
@@ -132,13 +132,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 **Contact**
 
-For any inquiries or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or support, please contact [your-email@example.com](mailto:shayan.hashemi27@gmail.com).
 
 ## 🌐 **Acknowledgements**
 
 - [OpenAI Whisper](https://github.com/openai/whisper) for speech recognition.
 - [Facebook MMS-TTS](https://github.com/facebookresearch/mms-tts) for text-to-speech.
-- [Moondream](https://github.com/your-repo/moondream) for image processing and captioning.
+- [Moondream](https://github.com/vikhyat/moondream) for image processing and captioning.
 
 ---
 
