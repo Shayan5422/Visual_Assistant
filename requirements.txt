@@ -1,0 +1,10 @@
+opencv-python
+numpy
+Pillow
+sounddevice
+soundfile
+torch
+moondream
+transformers
+scipy
+pynput
