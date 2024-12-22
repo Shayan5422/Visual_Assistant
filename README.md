@@ -132,7 +132,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 **Contact**
 
-For any inquiries or support, please contact [your-email@example.com](mailto:shayan.hashemi27@gmail.com).
+For any inquiries or support, please contact [shayan.hashemi27@gmail.com](mailto:shayan.hashemi27@gmail.com).
 
 ## 🌐 **Acknowledgements**
 
